@@ -1,0 +1,3 @@
+iostream version:                       21.9 seconds
+scanf version:                           6.8 seconds
+iostream with sync_with_stdio(false):    5.5 seconds
